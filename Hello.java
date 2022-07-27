@@ -1,6 +1,10 @@
 class Hello{
 psvm(){
-syso("hello how are you fine 2 3 4 ");
+<<<<<<< HEAD
+syso("git frature branch");
+=======
+syso("hello how are you git Repo ");
+>>>>>>> gitFeature2
 }
 }
 
