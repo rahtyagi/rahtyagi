@@ -1,6 +1,6 @@
 class Hello{
 psvm(){
-syso("hello how are you fine 2 3 4 ");
+syso("hello how are you git Repo ");
 }
 }
 
